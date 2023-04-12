@@ -1,17 +1,36 @@
-# Note Taker Starter Code
-GIVEN a note-taking application
-WHEN I open the Note Taker
-THEN I am presented with a landing page with a link to a notes page
-WHEN I click on the link to the notes page
-THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
-WHEN I enter a new note title and the note’s text
-THEN a Save icon appears in the navigation at the top of the page
-WHEN I click on the Save icon
-THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes
-WHEN I click on an existing note in the list in the left-hand column
-THEN that note appears in the right-hand column
-WHEN I click on the Write icon in the navigation at the top of the page
-THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
+# Note Taker ![](https://img.shields.io/badge/License:-MIT-lightgrey)
+        
+## Description
+This note taker app allows the user to create, save, review, and delete notes. 
 
+## Table of Contents
+* [Installation](#installation)
 
+* [Usage](#usage)
+
+* [Contribution](#contribution)
+
+* [Test](#test)
+
+* [License](#license)
+
+    
+## Installation
+Visit https://brianmorse1.github.io/brian-morse-note-taker/ to use the app. 
+
+## Usage
+To create notes for everyday use. Useful as reminders or to-do's. 
+
+## Test
+There is no need for troubleshooting this app on the user end.
+
+## Contribution
+No contributions are being accepted.
+
+## License
+This project uses the MIT license. 
+[MIT](./LICENSE)
+
+## Questions
+For any quesitions regarding this project, please see my Github at https://github.com/BrianMorse1 or email me at Brian.p.morse@gmail.com. 
